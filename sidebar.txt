@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[has:home|Door43 (has)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-has|d43-has repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-has/archive/master.zip|d43-has.zip]]
+
+**Recent Changes**
+{{changes>ns = has}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/has|Ethnologue data]]
+
